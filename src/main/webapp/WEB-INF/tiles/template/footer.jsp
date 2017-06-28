@@ -1,0 +1,1 @@
+<p>&copy; Sklep testowy 2017</p>
